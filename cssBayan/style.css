@@ -184,7 +184,6 @@ label{
 #close1:checked ~ .item_text #check1{
   display: none;
 }
-
 #button2:checked ~ .picture{
   height: fit-content;
   padding: .5rem 0;
@@ -206,7 +205,6 @@ label{
 #close2:checked ~ .item_text #check2{
   display: none;
 }
-
 #button3:checked ~ .picture{
   height: fit-content;
   padding: .5rem 0;
@@ -228,7 +226,6 @@ label{
 #close3:checked ~ .item_text #check3{
   display: none;
 }
-
 #button4:checked ~ .picture{
   height: fit-content;
   padding: .5rem 0;
@@ -250,7 +247,6 @@ label{
 #close4:checked ~ .item_text #check4{
   display: none;
 }
-
 #button5:checked ~ .picture{
   height: fit-content;
   padding: .5rem 0;
