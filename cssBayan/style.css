@@ -22,6 +22,11 @@ body {
   }
 }
 @media(max-width: 821px){
+  .container{
+    width: 80vw;
+  }
+}
+@media(max-width: 821px){
   h1{
     margin: 10px 0;
   }
