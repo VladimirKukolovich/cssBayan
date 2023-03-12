@@ -85,14 +85,14 @@ body {
   transition: 01s opacity;
   border-radius: 10px;
 }
-@media(max-width: 321px){
-  .picture img{
-    width: 50vw;
-  }
-}
 @media(max-width: 821px){
   .picture img{
     width: 45vw;
+  }
+}
+@media(max-width: 321px){
+  .picture img{
+    width: 65vw;
   }
 }
 
